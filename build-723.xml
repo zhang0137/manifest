@@ -40,6 +40,7 @@
   <project groups="minilayout" name="zhang0137/scripts" path="src/scripts" revision="csphere-723.3.0" upstream="refs/heads/master"/>
   <project groups="minilayout" name="nicescale/csphere" path="src/third_party/csphere" revision="3cfe0896330ce5abfe661c74e4c9cc21bbba333e" upstream="refs/heads/master"/>
   <project groups="minilayout" name="mountkin/go-bindata" path="src/third_party/go-bindata" revision="3e90fea08bf6644f483d50e967581e898f40009d" upstream="refs/heads/master"/>
+  <project groups="minilayout" name="prometheus/prometheus" path="src/third_party/prometheus" revision="db4df06414c2c602bd60bf28f4ec0242d11949f3" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/sdnotify-proxy" path="src/third_party/sdnotify-proxy" revision="bfd0269267d91f3bbe89db49ec8ea8903ae8aa3c" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/seismograph" path="src/third_party/seismograph" revision="f9fa3b17bfe7ab390765fc328a639c456b57b38d" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/shim" path="src/third_party/shim" revision="03a1513b0985fd682b13a8d29fe3f1314a704c66" upstream="refs/heads/master"/>
