@@ -14,9 +14,10 @@
   <project groups="minilayout" name="chromiumos/third_party/pyelftools" path="chromite/third_party/pyelftools" remote="cros" revision="bdc1d380acd88d4bfaf47265008091483b0d614e" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/baselayout" path="src/third_party/baselayout" revision="8bcd090cf4524c12481e12022c5c47219a6f3f9d" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/bootengine" path="src/third_party/bootengine" revision="2f45978b65904827450bdcef070676bdf6da7139" upstream="refs/heads/master"/>
-  <project groups="minilayout" name="coreos/chromite" path="chromite" revision="ec574faedb9cc64f01ec1c5a8458350124ac0935" upstream="refs/heads/master">
+  <project groups="minilayout" name="zhang0137/chromite" path="chromite" revision="csphere-723.3.0" upstream="refs/heads/master">
     <copyfile dest="AUTHORS" src="AUTHORS"/>
     <copyfile dest="LICENSE" src="LICENSE"/>
+    <copyfile dest="build" src="build"/>
   </project>
   <project groups="minilayout" name="coreos/coreos-buildbot" path="src/third_party/coreos-buildbot" revision="3e4b20f67839aa541839eca6b4b7274d5ad1932c" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/coreos-cloudinit" path="src/third_party/coreos-cloudinit" revision="41289286cab73a5726884f1c36379558460f1774" upstream="refs/heads/master"/>
