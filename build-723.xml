@@ -29,7 +29,7 @@
   <project groups="minilayout" name="coreos/fleet" path="src/third_party/fleet" revision="d3a2a6d3e363bb688280b6ffca550761c482bf79" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/grub" path="src/third_party/grub" revision="19c075a7ac80becf61bfff39541a9a04f5c3efde" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/ignition" path="src/third_party/ignition" revision="9bc9d9b18f437eb4269868c146db530862adc8b4" upstream="refs/heads/master"/>
-  <project groups="minilayout" name="zhang/init" path="src/third_party/init" revision="csphere-723.3.0" upstream="refs/heads/master"/>
+  <project groups="minilayout" name="zhang0137/init" path="src/third_party/init" revision="csphere-723.3.0" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/installer" path="src/platform/installer" revision="95815a7cc15abea574e1b06d9fd403b90b29ba01" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/locksmith" path="src/third_party/locksmith" revision="2fc9219f146650f8465eb4fc9cd61808759c287a" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/mantle" path="src/third_party/mantle" revision="0d18f6a61f35ae4a79a0793a8c048fc3fe3723f4" upstream="refs/heads/master"/>
