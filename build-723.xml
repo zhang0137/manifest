@@ -14,7 +14,7 @@
   <project groups="minilayout" name="chromiumos/third_party/pyelftools" path="chromite/third_party/pyelftools" remote="cros" revision="bdc1d380acd88d4bfaf47265008091483b0d614e" upstream="refs/heads/master"/>
   <project groups="minilayout" name="zhang0137/baselayout" path="src/third_party/baselayout" revision="csphere-723.3.0" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/bootengine" path="src/third_party/bootengine" revision="2f45978b65904827450bdcef070676bdf6da7139" upstream="refs/heads/master"/>
-  <project groups="minilayout" name="coreos/chromite" path="chromite" revision="ec574faedb9cc64f01ec1c5a8458350124ac0935" upstream="refs/heads/master">
+  <project groups="minilayout" name="zhang0137/chromite" path="chromite" revision="csphere-723.3.0" upstream="refs/heads/master">
     <copyfile dest="AUTHORS" src="AUTHORS"/>
     <copyfile dest="LICENSE" src="LICENSE"/>
   </project>
