@@ -38,6 +38,7 @@
   <project groups="minilayout" name="coreos/portage-stable" path="src/third_party/portage-stable" revision="8e6f18ef2c330f1c988f814c6e4f458a5bf868b4" upstream="refs/heads/build-723"/>
   <project groups="minilayout" name="coreos/rkt" path="src/third_party/rkt" revision="4dafc1ef5063a12ac63610734b4c6404219a3672" upstream="refs/heads/master"/>
   <project groups="minilayout" name="zhang0137/scripts" path="src/scripts" revision="csphere-723.3.0" upstream="refs/heads/master"/>
+  <!-- following line will be removed before repo sync -->
   <project groups="minilayout" name="nicescale/csphere" path="src/third_party/csphere" revision="be3aab6a6b729f7ac458e7225b4f096a7b66ba76" upstream="refs/heads/master"/>
   <project groups="minilayout" name="mountkin/go-bindata" path="src/third_party/go-bindata" revision="3e90fea08bf6644f483d50e967581e898f40009d" upstream="refs/heads/master"/>
   <project groups="minilayout" name="prometheus/prometheus" path="src/third_party/prometheus" revision="db4df06414c2c602bd60bf28f4ec0242d11949f3" upstream="refs/heads/master"/>
@@ -50,6 +51,7 @@
   <project groups="minilayout" name="coreos/toolbox" path="src/third_party/toolbox" revision="16a9ab6ab9e2b8e91706654870b088f6c901798b" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/update_engine" path="src/third_party/update_engine" revision="911c99bc41037be13f773a31fe2f5fdb8fc0ae02" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/updateservicectl" path="src/third_party/updateservicectl" revision="d957967d212df8c814323e9a672669cbc13f73de" upstream="refs/heads/master"/>
+  <!-- following line will be removed before repo sync -->
   <project groups="minilayout" name="nicescale/docker" path="src/third_party/docker" revision="bridge-ipam" upstream="refs/heads/master"/>
   
   <repo-hooks enabled-list="pre-upload" in-project="chromiumos/repohooks"/>
