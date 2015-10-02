@@ -52,7 +52,9 @@
   <project groups="minilayout" name="coreos/update_engine" path="src/third_party/update_engine" revision="911c99bc41037be13f773a31fe2f5fdb8fc0ae02" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/updateservicectl" path="src/third_party/updateservicectl" revision="d957967d212df8c814323e9a672669cbc13f73de" upstream="refs/heads/master"/>
   <!-- following line will be removed before repo sync -->
-  <project groups="minilayout" name="nicescale/docker" path="src/third_party/docker" revision="bridge-ipam" upstream="refs/heads/master"/>
+  <project groups="minilayout" name="nicescale/docker" path="src/third_party/docker" revision="csphere-1.9.0-rc1" upstream="refs/heads/master"/>
+  <!-- following line will be removed before repo sync -->
+  <project groups="minilayout" name="nicescale/netplugin" path="src/third_party/netplugin" revision="master" upstream="refs/heads/master"/>
   
   <repo-hooks enabled-list="pre-upload" in-project="chromiumos/repohooks"/>
 </manifest>
