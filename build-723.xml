@@ -55,6 +55,7 @@
   <project groups="minilayout" name="nicescale/docker" path="src/third_party/docker" revision="csphere-1.9.0-rc1" upstream="refs/heads/master"/>
   <!-- following line will be removed before repo sync -->
   <project groups="minilayout" name="nicescale/netplugin" path="src/third_party/netplugin" revision="master" upstream="refs/heads/master"/>
+  <project groups="minilayout" name="zhang0137/costest" path="src/third_party/costest" revision="master" upstream="refs/heads/master"/>
   
   <repo-hooks enabled-list="pre-upload" in-project="chromiumos/repohooks"/>
 </manifest>
